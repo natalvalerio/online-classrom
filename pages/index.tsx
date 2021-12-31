@@ -3,6 +3,9 @@ import Head from 'next/head'
 export default function Home(): JSX.Element {
   return (
 <div>
+<Head>
+    <title>Novo sistema!</title>
+</Head>
   <div></div>
   <div className="py-20">
     <h1 className="text-5xl text-center text-accent-1">
