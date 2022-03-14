@@ -10,7 +10,7 @@ export default function Home(): JSX.Element {
   <div className="py-20">
     <h1 className="text-5xl text-center text-accent-1">
     Next.js + TailWind CSS 
-    Nova linha de divisão
+    Nova linha de divisão -
     </h1>
   </div>
   {tail}
