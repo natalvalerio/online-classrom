@@ -9,7 +9,7 @@ export default function Home(): JSX.Element {
   <div></div>
   <div className="py-20">
     <h1 className="text-5xl text-center text-accent-1">
-    Next.js + TailWind CSS - Apenas teste
+    Next.js + TailWind CSS <br>Apenas teste<br>
     Segue uma atualização.
     </h1>
   </div>
